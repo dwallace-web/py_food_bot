@@ -1,1 +1,22 @@
 config.py
+*.json
+Food_Inspections.csv
+
+# virtual environment
+venv/
+twitter_food_bot/
+twitter_food_bot
+
+# Python cache files
+__pycache__/
+__pycache__
+
+# installed packages metadata
+*.egg-info/
+
+# macOS system files
+.DS_Store
+
+# environment variables
+.env
+.ipynb_checkpoints
